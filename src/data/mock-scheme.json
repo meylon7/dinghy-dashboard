@@ -1,0 +1,18 @@
+[
+  {
+		"id": string,
+		"name": string,
+		"state": string
+	},
+	{
+    "id": string,
+    "name": string,
+    "state": string,
+		"agent": {
+			"cpuUtil": float,
+			"id": string,
+			"name": string,
+			"ramUtil": float
+		}
+	}
+]
